@@ -1,0 +1,24 @@
+<svg class="lp-app-button__content__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23 25" aria-hidden="true">
+											<defs>
+												<linearGradient id="lp-gp-a" x1="50%" x2="40%" y1="25%" y2="50%">
+													<stop offset="0%" stop-color="#00c4ff"></stop>
+													<stop offset="100%" stop-color="#00e3ff"></stop>
+												</linearGradient>
+												<linearGradient id="lp-gp-b" x1="0%" x2="100%" y1="50%" y2="50%">
+													<stop offset="0%" stop-color="#fb0"></stop>
+													<stop offset="100%" stop-color="#fd0"></stop>
+												</linearGradient>
+												<linearGradient id="lp-gp-c" x1="100%" x2="0%" y1="20%" y2="80%">
+													<stop offset="0%" stop-color="#df2454"></stop>
+													<stop offset="100%" stop-color="#ff3a44"></stop>
+												</linearGradient>
+												<linearGradient id="lp-gp-d" x1="0%" x2="100%" y1="20%" y2="80%">
+													<stop offset="0%" stop-color="#13d375"></stop>
+													<stop offset="100%" stop-color="#00f076"></stop>
+												</linearGradient>
+											</defs>
+											<path fill="url(#lp-gp-a)" d="M.44.38C.16.68 0 1.15 0 1.75v21.48c0 .6.16 1.07.45 1.36l.08.07 12.03-12.04v-.26L.52.32.44.38z"></path>
+											<path fill="url(#lp-gp-b)" d="m16.57 16.65-4.02-4.02v-.28l4.02-4.01.08.05 4.75 2.7c1.36.77 1.36 2.03 0 2.8l-4.74 2.7-.1.06z"></path>
+											<path fill="url(#lp-gp-c)" d="m16.66 16.6-4.1-4.1L.43 24.6c.45.48 1.19.53 2.02.07l14.2-8.08"></path>
+											<path fill="url(#lp-gp-d)" d="M16.66 8.4 2.46.32C1.63-.15.88-.08.44.4l12.11 12.1 4.1-4.1z"></path>
+										</svg>
